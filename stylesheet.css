@@ -39,7 +39,10 @@ header{
     float: left;
     font-size: 24px;
     margin-top: 24px;
-    cursor: pointer;
+    margin-left: 20px;
+}
+.header-logo p {
+    cursor: default;
 }
 .header-list li{
     float: right;

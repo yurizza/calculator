@@ -1,0 +1,8 @@
+@media(max-width: 670px){
+    .menu-icon{
+        display: block;
+    }
+    .header-list{
+        display: none;
+    }
+}

@@ -39,6 +39,7 @@ header{
     float: left;
     font-size: 24px;
     margin-top: 24px;
+    cursor: pointer;
 }
 .header-list li{
     float: right;
